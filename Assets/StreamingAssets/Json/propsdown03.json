@@ -1,0 +1,156 @@
+[
+	{
+		"time" : 59,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+    },
+	{
+		"time" : 58,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+    },
+	{
+		"time" : 57,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+    },
+	{
+		"time" : 56,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+	},
+	{
+		"time" : 55,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+	},
+	{
+		"time" : 54,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+	},
+	{
+		"time" : 53,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+	},
+	{
+		"time" : 52,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+	},
+	{
+		"time" : 51,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+	},
+	{
+		"time" : 50,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+	},
+	{
+		"time" : 49,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+	},
+	{
+		"time" : 48,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+	},
+	{
+		"time" : 47,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+	},
+	{
+		"time" : 46,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+	},
+	{
+		"time" : 45,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+	},
+	{
+		"time" : 44,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+	},
+	{
+		"time" : 43,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+	},
+	{
+		"time" : 42,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+	},
+	{
+		"time" : 41,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+	},
+	{
+		"time" : 40,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+	},
+	{
+		"time" : 39,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+	},
+	{
+		"time" : 38,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+	},
+	{
+		"time" : 37,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+	},
+	{
+		"time" : 36,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+	},
+	{
+		"time" : 35,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+	},
+	{
+		"time" : 34,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+	},
+	{
+		"time" : 33,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+	},
+	{
+		"time" : 32,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+	},
+	{
+		"time" : 31,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+	},
+	{
+		"time" : 30,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+	},
+	{
+		"time" : 15,
+		"propName" : "KillTime"
+	}
+]

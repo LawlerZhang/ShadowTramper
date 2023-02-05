@@ -1,0 +1,36 @@
+[
+	{
+		"time" : 80,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+    },
+	{
+		"time" : 70,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+    },
+	{
+		"time" : 60,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+    },
+	{
+		"time" : 50,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+	},
+	{
+		"time" : 40,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+	},
+	{
+		"time" : 30,
+		"isRandom" : true,
+		"randomProps" : ["Banana", "Gum", "Magnet"]
+	},
+	{
+		"time" : 20,
+		"propName" : "KillTime"
+	}
+]
